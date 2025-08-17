@@ -19,10 +19,9 @@ Traditional street lighting systems consume excessive energy and require manual 
 ## 🏗️ System Architecture  
 
 <p align="center">
-  <img src="system-architecture.png" alt="System Architecture" width="700"/>
+  <img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2025 at 01_34_59 PM" src="https://github.com/user-attachments/assets/083bcb01-65e9-41d0-bed2-b7d107488052" />
 </p>  
 
-*(Replace `system-architecture.png` with the uploaded architecture diagram filename in your repo.)*
 
 ---
 
@@ -55,6 +54,24 @@ Traditional street lighting systems consume excessive energy and require manual 
    - Lights OFF during daylight  
 4. **IoT Connectivity** → Sends sensor data & streetlight status to cloud dashboard  
 5. **Visualization** → Graphs & analytics for usage and performance monitoring  
+
+---
+
+## 🎛️ Signal Processing Relevance  
+
+This project applies **basic signal processing techniques** by analyzing real-time sensor data from LDR and PIR modules:  
+
+- 📡 **Signal Acquisition** → Ambient light intensity & motion signals captured via sensors  
+- 🔎 **Filtering & Thresholding** → Noise reduction and adaptive thresholds ensure reliable light switching  
+- ⚙️ **Decision Logic** → Processed signals determine ON/DIM/OFF states in real-time  
+
+### 🚘 Automotive Industry Applications  
+The same principles can be extended to the **automotive and transportation sector**:  
+- 🚦 Smart traffic light control based on vehicle flow  
+- 🚗 Adaptive automotive lighting systems for safety  
+- 🏙️ Vehicle-to-Infrastructure (V2I) integration in smart cities  
+
+This makes the system not just an **IoT energy-saving solution**, but also a foundation for **intelligent transportation and automotive safety systems**.  
 
 ---
 
