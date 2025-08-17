@@ -19,7 +19,7 @@ Traditional street lighting systems consume excessive energy and require manual 
 ## 🏗️ System Architecture  
 
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2025 at 01_34_59 PM" src="https://github.com/user-attachments/assets/083bcb01-65e9-41d0-bed2-b7d107488052" />
+  <img width="600" height="700" alt="ChatGPT Image Aug 17, 2025 at 01_34_59 PM" src="https://github.com/user-attachments/assets/083bcb01-65e9-41d0-bed2-b7d107488052" />
 </p>  
 
 
